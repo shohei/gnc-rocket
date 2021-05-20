@@ -1,3 +1,5 @@
 # Guidance, Navigation, and Control (GN&C)
 
-![](roll_angle_step.png)
+![](1.png)
+![](2.png)
+![](3.png)
